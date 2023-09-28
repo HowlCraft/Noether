@@ -1,0 +1,30 @@
+title: Mathématiques
+description: Cours de Mathématiques
+theme: just-the-docs
+
+url: https://HowlCraft.github.io/just-docs
+
+aux_links:
+  Template Repository: https://github.com/HowlCraft/just-docs
+  
+math: mathjax
+
+color_scheme: dawn
+
+callouts:
+  methode:
+    title: Methode
+    color: rose-moon
+    opacity: 0.4
+  exemple:
+    title: Exemple
+    color: rose-moon
+    opacity: 0.4
+  attention:
+    title: Attention
+    color: love-moon
+    opacity: 0.4
+  cours:
+    title: Cours
+    color: foam-moon
+    opacity: 0.4
