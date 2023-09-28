@@ -1,24 +1,20 @@
 ---
 layout: default
-title: 10 - La Colinéarité
+title: 1 - Le Second Degré
 nav_order: 1
 has_children: true
 ---
 
-# Chapitre 10. Colinéarité
+# Chapitre 1. Le Second Degré
 
 ### En un mot.
 
-Maintenant qu'on sait ce qu'est un vecteur, et comment les caractériser par leurs coordonnées, on pourra étudier des propriétés particulières. La première, et la plus importante, est **la colinéarité** de deux vecteurs.
-
-La colinéarité, c'est l'équivalent du parallélisme **pour les vecteurs** : deux vecteurs sont colinéaires s'ils ont la même direction. Cela correspond à la **proportionnalité** de leurs coordonnées.
-
-Les applications se retrouvent en géométrie : vérifier l'alignement de trois points, calculer l'aire d'un parallélogramme, puis dans le chapitre 12. Equations de droites pour vérifier que deux droites sont parallèles.
+Le second degré fait référence aux _fonctions_ du second degré, en partant de la définition d'une fonction du second degré est la suivante : 
+Une fonction définie sur l'ensemble des réels est dite du second degré si elle est de la forme $f : x \mapsto ax^2+bx=c$, avec a, b, et c des réels (a non nul).
 
 
 ### Documents
 
-- [Cours](https://howlcraft.github.io/just-docs/docs/c10/c10-methodes.html)
-- [Méthodes](https://howlcraft.github.io/just-docs/docs/c10/c10-methodes.html)
-- [Exercices](https://howlcraft.github.io/just-docs/docs/c10/c10-exercices.pdf)
-- [DM](https://howlcraft.github.io/just-docs/docs/c10/c10-dlm.pdf)
+- [Méthodes](https://howlcraft.github.io/Noether/docs/c1/c1-Methodes.pdf)
+- [Exercices corrigés](https://howlcraft.github.io/Noether/docs/c1/c1_ex9-13_Correction.pdf)
+- [DM](https://howlcraft.github.io/Noether/docs/c1/c1_DevoirBlanc.pdf)
